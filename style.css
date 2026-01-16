@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "bubble";
+    src: url(Fonts/Milkyway\ DEMO.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.Title{
+    position:absolute;
+    left: 100px;
+    font-size: 100px;
+    font-family: "bubble";
+}
