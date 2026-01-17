@@ -1,6 +1,6 @@
 @font-face {
     font-family: "bubble";
-    src: url(Fonts/PlannerPlanPlannyPlan-Regular.ttf);
+    src: url(Fonts/starbim.regular.ttf);
     font-weight: normal;
     font-style: normal;
 }
@@ -8,7 +8,6 @@
 body{
     background-color: rgb(189, 205, 228);
 }
-
 
 .Title{
     position:absolute;
@@ -22,17 +21,14 @@ body{
 
 .background{
     background-color: rgb(59, 83, 118);
-    height: 700px;
-    width: 1200px;
-    border-radius: 50px;
+    height: 600px;
+    width: 1000px;
     position: absolute;
-    left: 150px;
-    top: 120px;
+    left: 250px;
+    top: 200px;
 }
 
-.grid{
-    grid-column: auto;
-    grid-row: auto;
-    color:white;
-    z-index: 2;
+.1{
+    
 }
+
