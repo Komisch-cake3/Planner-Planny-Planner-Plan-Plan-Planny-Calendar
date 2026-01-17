@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: rgb(182, 220, 255);
+    background-color: rgb(189, 205, 228);
 }
 
 
@@ -16,5 +16,22 @@ body{
     font-size: 100px;
     font-family: "bubble";
     color: white;
-   
+    z-index: 2;   
+
+}
+
+.background{
+    background-color: rgb(59, 83, 118);
+    height: 700px;
+    width: 1200px;
+    border-radius: 50px;
+    position: absolute;
+    left: 150px;
+    top: 120px;
+}
+
+.grid{
+    grid: 100px;
+    color:white;
+    z-index: 2;
 }
