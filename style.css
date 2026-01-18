@@ -31,24 +31,24 @@ body{
 .box1{
      height:120px;
     width:142.85px;
-    background-color:white;
+    background-color:rgb(137, 87, 87);
 }
 
 .box2{
  height:120px;
     width:142.85px;
-    background-color:white;
+    background-color:rgb(82, 89, 38);
 }
 
 .box3{
      height:120px;
     width:142.85px;
-    background-color:white;
+    background-color:rgb(255, 175, 175);
 }
 .box4{
-     height:120px;
+    height:120px;
     width:142.85px;
-    background-color:white;
+    background-color:rgb(190, 163, 163);
 }
 .box5{
     height:120px;
@@ -57,30 +57,45 @@ body{
 }
 
 .box6{
-     height:120px;
+    height:120px;
     width:142.85px;
-    background-color:white;
+    position: absolute;
+    left: 142.85px;
+    bottom:480px;
+    background-color:rgb(66, 161, 22);
 }
 
 .box7{
- height:120px;
+    height:120px;
     width:142.85px;
-    background-color:white;
+    position: absolute;
+    left: 285.7px;
+    bottom:480px;
+    background-color:rgb(43, 217, 226);
 }
 
 .box8{
      height:120px;
     width:142.85px;
+    position: absolute;
+    left: 428.55px;
+    bottom:480px;
     background-color:white;
 }
 .box9{
      height:120px;
     width:142.85px;
-    background-color:white;
+    position: absolute;
+    left: 571.4px;
+    bottom:480px;
+    background-color:rgb(165, 162, 162);
 }
 .box10{
     height:120px;
     width:142.85px;
-    background-color:white;
+    position: absolute;
+    left: 714.24px;
+    bottom:480px;
+    background-color:rgb(77, 0, 0);
 
 }
