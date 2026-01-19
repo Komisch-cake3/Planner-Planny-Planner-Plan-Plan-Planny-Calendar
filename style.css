@@ -298,3 +298,59 @@ body{
     bottom:360px;
     background-color:rgb(97, 255, 86);
 }
+
+.box33{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 857.1px;
+    bottom:360px;
+    background-color:rgb(89, 36, 163);
+}
+.box34{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 857.1px;
+    bottom:240px;
+    background-color:rgb(89, 36, 163);
+}
+
+.box35{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 857.1px;
+    bottom:120px;
+    background-color:rgb(89, 36, 163);
+}
+
+.box36{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 428.55px;
+    bottom:360px;
+    background-color:rgb(89, 36, 163);
+}
+.box37{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 428.55px;
+    bottom:240px;
+    background-color:rgb(89, 36, 163);
+}
+
+.box38{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 428.55px;
+    bottom:120px;
+    background-color:rgb(89, 36, 163);
+}
+
+.box1:hover{
+      transform: scale(1.3);
+}
