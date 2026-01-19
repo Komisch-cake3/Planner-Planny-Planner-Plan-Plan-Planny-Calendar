@@ -161,7 +161,7 @@ body{
     position: absolute;
     left: 285.7px;
     bottom: 0px;
-    background-color:rgb(1, 47, 4);
+    background-color:rgb(248, 255, 50);
 }
 
 .box18{
@@ -170,7 +170,7 @@ body{
     position: absolute;
     left: 428.55px;
     bottom: 0px;
-    background-color:rgb(29, 255, 44);
+    background-color:rgb(9, 10, 9);
 }
 
 .box19{
@@ -188,7 +188,7 @@ body{
     position: absolute;
     left: 714.24px;
     bottom: 0px;
-    background-color:rgb(29, 255, 44);
+    background-color:rgb(255, 255, 255);
 }
 
 .box21{
@@ -197,7 +197,7 @@ body{
     position: absolute;
     left: 714.24px;
     bottom: 0px;
-    background-color:rgb(29, 255, 44);
+    background-color:rgb(255, 255, 255);
 }
 
 .box22{
@@ -206,7 +206,7 @@ body{
     position: absolute;
     left: 857.1px;
     bottom: 0px;
-    background-color:rgb(29, 255, 44);
+    background-color:rgb(152, 211, 156);
 }
 
 .box23{
@@ -216,4 +216,85 @@ body{
     left: 285.7px;
     bottom: 120px;
     background-color:rgb(249, 135, 255);
+}
+
+.box24{
+ height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 285.7px;
+    bottom: 240px;
+    background-color:rgb(91, 255, 83);
+}
+
+.box25{
+ height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 285.7px;
+    bottom: 240px;
+    background-color:rgb(232, 255, 83);
+}
+
+.box26{
+ height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 285.7px;
+    bottom: 360px;
+    background-color:rgb(255, 106, 83);
+}
+
+.box27{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 571.4px;
+    bottom:360px;
+    background-color:rgb(143, 0, 0);
+}
+
+.box28{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 571.4px;
+    bottom:240px;
+    background-color:rgb(117, 143, 0);
+}
+
+.box29{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 571.4px;
+    bottom:120px;
+    background-color:rgb(0, 55, 143);
+}
+
+.box30{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 714.24px;
+    bottom:120px;
+    background-color:rgb(86, 151, 255);
+}
+
+.box31{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 714.24px;
+    bottom:240px;
+    background-color:rgb(204, 255, 86);
+}
+
+.box32{
+     height:120px;
+    width:142.85px;
+    position: absolute;
+    left: 714.24px;
+    bottom:360px;
+    background-color:rgb(97, 255, 86);
 }
