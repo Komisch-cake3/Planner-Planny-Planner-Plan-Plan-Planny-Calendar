@@ -32,7 +32,7 @@ body{
      height:120px;
     width:142.85px;
     background-color:rgb(255, 255, 255);
-
+    cursor: pointer;
 }
 
 .box2{
